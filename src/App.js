@@ -4,9 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Navigation from './components/Navigation';
 import Home from './pages/Home';
-import About from './pages/About';
-import ReadNews from './pages/ReadNews';
-import News from './pages/News';
+
 import {CategoryContext} from './CategoryContext';
 
 

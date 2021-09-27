@@ -4,7 +4,6 @@ import { CategoryContext } from '../CategoryContext';
 
 import AllNews from '../components/AllNews';
 import DisplayFull from '../components/DisplayFull';
-import OneNews from '../components/OneNews';
 
 function Home() {
 
@@ -61,7 +60,7 @@ function Home() {
             <DisplayFull />
             <section className="container" id="topNewsHome" >
                 <div className="row justify-content-center">
-                    <img className="img-fluid w-50 my-2" src="/assets/imgs/head.png" style={{}} />
+                    <img className="img-fluid w-50 my-2" src="our_news/assets/imgs/head.png" style={{}} />
                 </div>
                 <div className="d-flex flex-wrap gap-2 justify-content-center">
                     <div className="">
