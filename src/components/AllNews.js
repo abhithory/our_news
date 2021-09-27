@@ -31,7 +31,7 @@ function AllNews(props) {
             <div className="container" >
                 <div className="row justify-content-center" style={{ height: '70vh' }}>
                     <div className="col-8 m-auto">
-                        <img className="img-fluid" src="/assets/imgs/loading.gif" />
+                        <img className="img-fluid" src="assets/imgs/loading.gif" />
                     </div>
                 </div>
 
