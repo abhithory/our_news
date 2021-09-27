@@ -16,7 +16,7 @@ function DisplayFull() {
                     </div>
 
                     <div className="col-sm text-center">
-                        <img className="img-fluid   d-sm-inline d-none" src="our_news/assets/imgs/logo.svg" />
+                        <img className="img-fluid   d-sm-inline d-none" src="assets/imgs/logo.svg" />
                     </div>
 
                 </div>
